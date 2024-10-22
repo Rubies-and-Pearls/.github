@@ -1,0 +1,13 @@
+{
+    "name": "Rubies and Pearls Organization Workflow",
+    "description": "Rubies amd Pearls CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
